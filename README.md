@@ -29,5 +29,5 @@ Ce système de rendez-vous pour les médecins organisera les horaires des rendez
    - Modifier les paramètres du compte.
 
   ### N.B : Si vous êtes Admin, médecin ou patient, vous n'avez qu'une seule page pour vous connecter (Merci de jeter un coup d’œil sur la gestion des rôles) :)
-  ### N.B 2 : Vous pouvez s'inspirer à partir les ![captures d'écran]() mais ça n'empêche pas de proposer un nouveau design.
+  ### N.B 2 : Vous pouvez s'inspirer à partir les ![captures d'écran](https://github.com/HananeJab/Gestion-RDV-hopital/tree/main/Capture%20d'%C3%A9cran) mais ça n'empêche pas de proposer un nouveau design.
   ## Best of luck :D
